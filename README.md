@@ -41,6 +41,6 @@ I have devloped this practice project to conduct a comprehensive analysis of Bli
   * **Chart Type: Donut/ Pie Chart.
 
 ### 6. **Sales by Outlet Location:**
-  * ** Objective: Assess the geographic distribution of sales across different locations.
-  * **Chart Type: Funnel Map.
+  * **Objective**: Assess the geographic distribution of sales across different locations.
+  * **Chart Type**: Funnel Map.
 ```
