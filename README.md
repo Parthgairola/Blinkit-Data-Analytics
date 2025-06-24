@@ -37,8 +37,8 @@ I have devloped this practice project to conduct a comprehensive analysis of Bli
 
 
 ### 5. **Sales by Outlet Size:**
-  * **Objective: Analyze the correlation between outlet size and total sales.
-  * **Chart Type: Donut/ Pie Chart.
+  * **Objective**: Analyze the correlation between outlet size and total sales.
+  * **Chart Type**: Donut/ Pie Chart.
 
 ### 6. **Sales by Outlet Location:**
   * **Objective**: Assess the geographic distribution of sales across different locations.
